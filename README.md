@@ -1,4 +1,12 @@
 <h1 align="left">UltraSonic Sensor with Radar</h1>
+<span>
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/ahmedyar7/Ultrasonic-Radar-Sensor?style=for-the-badge&logo=github&logoColor=white&logoSize=20&label=FORKS&labelColor=black&link=https%3A%2F%2Fgithub.com%2Fahmedyar7%2FUltrasonic-Radar-Sensor">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ahmedyar7/Ultrasonic-Radar-Sensor?style=for-the-badge&logo=github&logoColor=blue&labelColor=black&color=grey">
+  
+</span>
+
+
+
 
 ###
 
